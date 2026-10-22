@@ -131,15 +131,24 @@ Learning through projects, solving technical problems, and turning concepts into
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tracking+my+coding+journey...;Every+commit+tells+a+story." alt="Animated subtitle" />
 </p>
 
+div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinebsaadeddine11&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=BC13FE&text_color=C9D1D9&bg_color=00000000&hide=contribs&card_width=400" width="49%" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=zinebsaadeddine11&theme=transparent&hide_border=true&ring=00F7FF&fire=BC13FE&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=777777&background=00000000" width="49%" alt="Contribution streak" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=65&section=header&text=GITHUB%20%2F%2F%20ACTIVITY&fontSize=20&fontColor=00F7FF&fontAlignY=55" width="100%" alt="GitHub activity banner"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&bg_color=00000000&langs_count=6" width="55%" alt="Most used languages" />
-</p>
+<br/>
+
+<a href="https://github.com/zinebsaadeddine11">
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=zinebsaadeddine11&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=00F7FF&title_color=00F7FF&hide=contribs&card_width=280" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/zinebsaadeddine11">
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=00F7FF&langs_count=4&card_width=280" alt="Top languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=zinebsaadeddine11&hide_border=true&background=0D1117&ring=00F7FF&fire=BC13FE&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=777777" width="65%" alt="GitHub contribution streak"/>
+
+</div>
 
 
 <h2 align="center">Connect With Me</h2>
