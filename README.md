@@ -52,9 +52,6 @@ Second-year engineering student with a Bachelor's degree in Software Engineering
 
 ---
 
-## GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zinebsaadeddine11&theme=radical&no-frame=true&no-bg=true&column=6)
 
 ## GitHub Statistics
 
