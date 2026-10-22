@@ -114,36 +114,9 @@ Learning through projects, solving technical problems, and turning concepts into
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:151525,100:BC13FE&height=2&section=header" width="100%" />
 </p>
 
-<p align="center">
-  <sub>DESIGNING · DEVELOPING · DISCOVERING</sub>
-</p>
-
-
-
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/✦-00F7FF?style=flat-square&labelColor=0D1117" height="20" />
-  &nbsp; GITHUB STATISTICS &nbsp;
-  <img src="https://img.shields.io/badge/✦-BC13FE?style=flat-square&labelColor=0D1117" height="20" />
-</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tracking+my+coding+journey...;Every+commit+tells+a+story." alt="Animated subtitle" />
-</p>
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zinebsaadeddine11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
-
-  <img width="49%" src="https://streak-stats.demolab.com/?user=zinebsaadeddine11&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:151525,100:BC13FE&height=2&section=header" width="80%" alt="Neon divider" />
 </p>
 
 
