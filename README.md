@@ -131,7 +131,7 @@ Learning through projects, solving technical problems, and turning concepts into
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tracking+my+coding+journey...;Every+commit+tells+a+story." alt="Animated subtitle" />
 </p>
 
-div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=65&section=header&text=GITHUB%20%2F%2F%20ACTIVITY&fontSize=20&fontColor=00F7FF&fontAlignY=55" width="100%" alt="GitHub activity banner"/>
 
