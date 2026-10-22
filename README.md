@@ -131,20 +131,14 @@ Learning through projects, solving technical problems, and turning concepts into
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tracking+my+coding+journey...;Every+commit+tells+a+story." alt="Animated subtitle" />
 </p>
 
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zinebsaadeddine11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
-
-  <img width="49%" src="https://streak-stats.demolab.com/?user=zinebsaadeddine11&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:151525,100:BC13FE&height=2&section=header" width="80%" alt="Neon divider" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zinebsaadeddine11&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=BC13FE&text_color=C9D1D9&bg_color=00000000&hide=contribs&card_width=400" width="49%" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=zinebsaadeddine11&theme=transparent&hide_border=true&ring=00F7FF&fire=BC13FE&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=777777&background=00000000" width="49%" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&bg_color=00000000&langs_count=6" width="55%" alt="Most used languages" />
 </p>
 
 
