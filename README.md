@@ -129,13 +129,21 @@ Learning through projects, solving technical problems, and turning concepts into
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 
-## Connect With Me
-<div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinebsaadeddine11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-saadeddine-240579390/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zinebsaadeddine11@gmail.com)
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/zinebsaadeddine11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/zineb-saadeddine-240579390/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zinebsaadeddine11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zinebsaadeddine11&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
-</div>
+
