@@ -9,7 +9,6 @@ Second-year engineering student with a Bachelor's degree in Software Engineering
 
 ## About Me
 
-- Software engineering and information systems
 - Full-stack web development and enterprise applications
 - Machine Learning, Deep Learning, and Computer Vision
 - Database design, SQL, and PL/SQL
