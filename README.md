@@ -64,15 +64,6 @@ Second-year engineering student with a Bachelor's degree in Software Engineering
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-## Top Contributed Repositories
-
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=zinebsaadeddine11&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-## Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 
 ## Connect With Me
 
