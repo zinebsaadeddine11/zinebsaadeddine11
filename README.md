@@ -1,5 +1,5 @@
 
-# Hi, I'm Zineb Saad Eddine
+# Hi, I'm Zineb SAADEDDINE
 
 ### Software Engineering Student | Web Development | AI & Machine Learning
 
