@@ -130,7 +130,7 @@ Learning through projects, solving technical problems, and turning concepts into
 
 
 ## Connect With Me
-
+<div align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinebsaadeddine11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-saadeddine-240579390/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zinebsaadeddine11@gmail.com)
@@ -138,3 +138,4 @@ Learning through projects, solving technical problems, and turning concepts into
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zinebsaadeddine11&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
+</div>
