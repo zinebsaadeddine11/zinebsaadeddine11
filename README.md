@@ -130,25 +130,21 @@ Learning through projects, solving technical problems, and turning concepts into
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Tracking+my+coding+journey...;Every+commit+tells+a+story." alt="Animated subtitle" />
 </p>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=65&section=header&text=GITHUB%20%2F%2F%20ACTIVITY&fontSize=20&fontColor=00F7FF&fontAlignY=55" width="100%" alt="GitHub activity banner"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zinebsaadeddine11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
 
-<br/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=zinebsaadeddine11&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<a href="https://github.com/zinebsaadeddine11">
-  <img height="125" src="https://github-readme-stats.vercel.app/api?username=zinebsaadeddine11&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=00F7FF&title_color=00F7FF&hide=contribs&card_width=280" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/zinebsaadeddine11">
-  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=00F7FF&langs_count=4&card_width=280" alt="Top languages"/>
-</a>
+  <br/><br/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=zinebsaadeddine11&hide_border=true&background=0D1117&ring=00F7FF&fire=BC13FE&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=777777" width="65%" alt="GitHub contribution streak"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinebsaadeddine11&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:151525,100:BC13FE&height=2&section=header" width="80%" alt="Neon divider" />
+</p>
 
 
 <h2 align="center">Connect With Me</h2>
