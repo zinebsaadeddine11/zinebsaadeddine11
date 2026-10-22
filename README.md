@@ -1,7 +1,14 @@
 
-# Hi, I'm Zineb SAADEDDINE
 
-### Software Engineering Student | Web Development | AI & Machine Learning
+<div align="center">
+
+# <span> ZINEB SAAD EDDINE </span>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=SOFTWARE+ENGINEERING+STUDENT;AI+%26+MACHINE+LEARNING+ENTHUSIAST;FULL-STACK+DEVELOPMENT;COMPUTER+VISION+%7C+DEEP+LEARNING" alt="Neon animated headline" />
+
+</div>
+
+
 
 Second-year engineering student with a Bachelor's degree in Software Engineering and Information Systems. Interested in web application development, enterprise Java architectures, artificial intelligence, and data-driven solutions.
 
